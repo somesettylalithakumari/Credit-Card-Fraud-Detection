@@ -10,7 +10,7 @@ The credit card fraud detection dataset comprises 284,807 transactions from Euro
 ## Project Pipeline
 The project follows a structured pipeline to ensure an effective credit card fraud detection system:
 
-Data Understanding: Load the dataset and analyze its structure, including feature distribution, class imbalance, and key characteristics such as PCA-transformed features, 'Time,' and 'Amount.'
+__Data Understanding__: Load the dataset and analyze its structure, including feature distribution, class imbalance, and key characteristics such as PCA-transformed features, 'Time,' and 'Amount.'
 
 __Exploratory Data Analysis (EDA)__: Perform univariate and bivariate analysis to identify patterns, detect anomalies, and explore relationships between variables. Investigate data skewness and apply necessary transformations for better model performance.
 
