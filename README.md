@@ -27,8 +27,6 @@ To deploy this project run
 
 ```bash
 streamlit run your file path
-
- 
 ```
 
 ## License
