@@ -21,6 +21,16 @@ Model Building & Hyperparameter Tuning: Train multiple machine learning models, 
 Model Evaluation & Deployment: Assess model performance using AUC-ROC, precision, recall, and F1-score to ensure accurate fraud detection. Deploy the best-performing model in a real-time fraud detection system for instant transaction verification and fraud prevention.
 
 
+## Deployment
+
+To deploy this project run
+
+```bash
+streamlit run your file path
+
+ 
+```
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
