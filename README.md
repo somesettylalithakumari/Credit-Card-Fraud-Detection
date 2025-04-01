@@ -28,6 +28,7 @@ To deploy this project run
 ```bash
 streamlit run your file path
 ```
+![Image](https://github.com/user-attachments/assets/0e39f153-9963-497d-bdbf-f8b7d0c69198)
 
 ## License
 
