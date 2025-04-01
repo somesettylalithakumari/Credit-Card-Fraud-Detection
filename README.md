@@ -12,13 +12,13 @@ The project follows a structured pipeline to ensure an effective credit card fra
 
 Data Understanding: Load the dataset and analyze its structure, including feature distribution, class imbalance, and key characteristics such as PCA-transformed features, 'Time,' and 'Amount.'
 
-Exploratory Data Analysis (EDA): Perform univariate and bivariate analysis to identify patterns, detect anomalies, and explore relationships between variables. Investigate data skewness and apply necessary transformations for better model performance.
+__Exploratory Data Analysis (EDA)__: Perform univariate and bivariate analysis to identify patterns, detect anomalies, and explore relationships between variables. Investigate data skewness and apply necessary transformations for better model performance.
 
-Data Preprocessing: Handle missing values, normalize numerical features if needed, and split the dataset into training and testing sets. Given the severe class imbalance, employ techniques such as SMOTE to balance the dataset.
+__Data Preprocessing__: Handle missing values, normalize numerical features if needed, and split the dataset into training and testing sets. Given the severe class imbalance, employ techniques such as SMOTE to balance the dataset.
 
-Model Building & Hyperparameter Tuning: Train multiple machine learning models, including Logistic Regression, Decision Trees, Random Forest, XGBoost, and Neural Networks. Optimize hyperparameters using grid search or random search to improve model accuracy and generalization.
+__Model Building & Hyperparameter Tuning__: Train multiple machine learning models, including Logistic Regression, Decision Trees, Random Forest, XGBoost, and Neural Networks. Optimize hyperparameters using grid search or random search to improve model accuracy and generalization.
 
-Model Evaluation & Deployment: Assess model performance using AUC-ROC, precision, recall, and F1-score to ensure accurate fraud detection. Deploy the best-performing model in a real-time fraud detection system for instant transaction verification and fraud prevention.
+__Model Evaluation & Deployment__: Assess model performance using AUC-ROC, precision, recall, and F1-score to ensure accurate fraud detection. Deploy the best-performing model in a real-time fraud detection system for instant transaction verification and fraud prevention.
 
 
 ## Deployment
